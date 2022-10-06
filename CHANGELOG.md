@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+ - Fix null Exception at _$BluetoothDeviceFromJson and BluetoothManager.state
